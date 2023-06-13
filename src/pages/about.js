@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`Sydney \n A British brand since 1860`}
+          title={`Megacreations \n A American brand since 2018`}
         />
 
         <div className={styles.navContainer}>
@@ -48,16 +48,19 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
-              contemporary edge. We make timeless everyday luxury clothing.
+            Welcome to Megacreations! We are an innovative and dynamic LLC that specializes 
+            in social media promotion on Facebook and offers exceptional content creation services. 
+            Our goal is to empower individuals, businesses, and organizations to harness the power 
+            of social media to connect, engage,and grow their online presence.
             </p>
             <br />
             <br />
             <p>
-              We created some of the world's first T-shirts and spent decades
-              perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+            At Megacreations, we understand the immense impact that a well-crafted social media strategy
+             can have on your brand's success. With over [insert number] years of experience in the industry,
+             our team of dedicated professionals is committed to helping you navigate the ever-changing 
+             landscape of social media marketing.
+
             </p>
           </div>
         </Container>
@@ -71,16 +74,7 @@ const AboutPage = (props) => {
             <h3>Our Values</h3>
             <div ref={valuesRef}>
               <p>
-                Sunspel produced some of the world's earliest T-shirts. In the
-                late 1800s the business made luxury tunics and undershirts from
-                lightweight Sea Island cotton for export to the Far East and
-                other warm climates. While these garments initially had silk
-                buttoned plackets, these were removed in the early 1900s and
-                replaced with simple bound necks to reduce manufacturing costs -
-                creating the T-shirt. We've supplied the world as the T-shirt
-                has evolved from underwear to outerwear, from symbol of youthful
-                rebellion to everyday wardrobe staple, and we've spent decades
-                refining its every last aspect.
+              Our talented team of content creators is passionate about bringing your brand's story to life. Whether it's eye-catching visuals, engaging videos, or captivating written content, we craft compelling assets that resonate with your target audience and leave a lasting impression.
               </p>
               <ol>
                 <li>Be an ecowear</li>
@@ -92,26 +86,13 @@ const AboutPage = (props) => {
             <h3>Sustainability</h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
               <p>
-                Our founder, Thomas Hill, had both an eye for quality and a
-                desire to innovate. As well as using the finest fibres such as
-                Sea Island cotton, cashmere and silk, he invented his own
-                fabrics. Sunspel continues this commitment to innovation today
-                and our unique fabrics include: Q100 Sea Island cotton, Q82
-                Supima cotton, Q75 warp knit mesh cotton and Q14 warp knit
-                cellular cotton. The technology behind these fabrics remains
-                unchanged today and all Sunspel products use the finest cottons,
-                wools and fibres.
+              We believe that a successful social media presence requires a solid strategy. Our experienced strategists provide expert guidance and consultation, helping you identify your goals, target the right audience, and develop an effective roadmap to achieve long-term success.
               </p>
               <p>
-                Made in Long Eaton, England and crafted from our luxurious long
-                staple Supima cotton for unparalleled softness, comfort and
-                durability, the Sunspel T-shirt has a classic fit and only the
-                most essential details.{' '}
+              We understand the importance of data-driven decision-making. Through in-depth analytics and insightful reporting, we provide you with valuable insights into the performance of your social media campaigns. This allows you to continuously optimize your strategy and maximize your return on investment..{' '}
               </p>
               <p>
-                With over 100 years spent perfecting fabric, fit and style, the
-                Sunspel Classic T-shirt is recognised as the finest in the
-                world.
+              Client-Centric Approach: At Megacreations, we prioritize our clients and their unique needs. We take the time to understand your brand, goals, and target audience, enabling us to provide personalized solutions that align with your vision and objectives.
               </p>
             </div>
           </div>
